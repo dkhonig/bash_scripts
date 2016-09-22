@@ -1,1 +1,1 @@
-# aws_scripts
+# bash_scripts
